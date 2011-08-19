@@ -3,7 +3,7 @@ CCASAnet Short Course: Introduction to R
 
 This is a repository for files related to the CCASAnet short course on 1 Sept, 2011 in Mexico City. The goal of this course is to expose CCASAnet members to the R statistical programming language.
 
-The primary data file in the repository ``haart.csv`` is a simulated dataset of highly active antiretroviral therapy outcomes. As such, it is not information on real patients, but is included only for the purposes of a statistical exercise.
+The primary data file in the repository ``haart.csv`` is a simulated dataset of highly active antiretroviral therapy (HAART) outcomes. As such, it is not information on real patients, but is included only for the purposes of a statistical exercise.
 
 The variables are defined as follows:
 
@@ -24,3 +24,7 @@ The variables are defined as follows:
 - lfup: 1 if lost to follow-up in the first year, 0 otherwise. A person was considered lost to follow-up if status (alive or dead) 365 days after HAART initiation was not known and if their last visit occurred more than 365 days before the closing date of the database.  The closing date of the: database was defined separately for each site as the date of the most recent follow-up recorded in the database.
 - pid: Patient identifier
 
+Required Software
+-----------------
+
+Course attendees should install both the `R application <http://cran.r-project.org/>`_ itself and `RStudio <http://rstudio.org>`_, an integrated development environment that many users prefer to use when interacting with R.

@@ -3,7 +3,7 @@ CCASAnet Short Course: Introduction to R
 
 This is a repository for files related to the CCASAnet short course on 1 Sept, 2011 in Mexico City. The goal of this course is to expose CCASAnet members to the R statistical programming language.
 
-The primary data file in the repository ``haart.csv`` is a simulated dataset of highly active antiretroviral therapy (HAART) outcomes. As such, it is not information on real patients, but is included only for the purposes of a statistical exercise.
+The primary data file in the repository ``haart.csv`` is a simulated dataset of highly active antiretroviral therapy (HAART) outcomes. As such, it is not information from real patients, but is included only for the purposes of a statistical exercise.
 
 The variables are defined as follows:
 

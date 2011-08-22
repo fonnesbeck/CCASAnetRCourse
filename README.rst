@@ -28,3 +28,9 @@ Required Software
 -----------------
 
 Course attendees should install both the `R application <http://cran.r-project.org/>`_ itself and `RStudio <http://rstudio.org>`_, an integrated development environment that many users prefer to use when interacting with R.
+
+Additional Resources
+--------------------
+
+There are a variety of resources online for learning more about how to use R effectively. Many of these resources are summarized on `this thread at StackExchange <http://stats.stackexchange.com/questions/138/resources-for-learning-r>`_. For answers to specific questions about R, plenty of help can be found at 
+`StackOverflow <http://stackoverflow.com/>`_. I recommend searching the site for your question before posting, as a courtesy to the users.
